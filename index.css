@@ -1,0 +1,14 @@
+body {
+    background-image: url(./imgs/fundo.jpg);
+}
+
+.titulo {
+    text-align: center;
+    font-weight: bold;
+    color:red;
+    background-color: yellow;
+}
+
+img.map, map area{
+    outline: none;
+}
